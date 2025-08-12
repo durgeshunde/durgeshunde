@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Durgesh
 
 🚀 **Aspiring ICT student** with a passion for building simple, beautiful, and functional web apps.  
-💡 Currently creating small but impactful projects to sharpen my skills before heading to university abroad.
+💡 Currently creating small but impactful projects to sharpen my skills.
 
 ---
 
@@ -16,9 +16,9 @@
 
 | Project | Live Demo | Description |
 | ------- | --------- | ----------- |
-| **Age Calculator** | [Live Link](https://durgeshunde.github.io/AgeCalculator/) | Calculates exact age & countdown to next birthday. |
-| **BMI Calculator** | [Live Link](https://durgeshunde.github.io/BMI-Results/) | Simple BMI calculator with health categories. |
-| **Weather App Pro** | [Live Link](https://durgeshunde.github.io/WeatherApp/) | Get live weather info with autocomplete search. |
+| **Age Calculator** | [Live Link](https://durgeshunde.github.io/Age-calculator/) | Calculates exact age & countdown to next birthday. |
+| **BMI Calculator** | [Live Link](https://durgeshunde.github.io/BMI/) | Simple BMI calculator with health categories. |
+| **Weather App** | [Live Link](https://durgeshunde.github.io/Weather/) | Get live weather info with autocomplete search. |
 | **Currency Converter** | [Live Link](https://durgeshunde.github.io/Currency/) | Convert between currencies using live exchange rates. |
 
 *(More projects coming soon…)*
