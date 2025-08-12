@@ -1,3 +1,4 @@
+![Durgesh Banner](https://github.com/durgeshunde/durgeshunde/raw/main/banner.png)
 # 👋 Hi, I’m Durgesh
 
 🚀 **Aspiring ICT student** with a passion for building simple, beautiful, and functional web apps.  
