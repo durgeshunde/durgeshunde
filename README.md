@@ -32,4 +32,4 @@
 
 ---
 
-💻 "I believe small but focused projects build real skills — and I’m here to keep growing in both Web Development and Cybersecurity."  
+💻 "I believe small but focused projects build real skills,and I’m here to keep growing in both Web Development and Cybersecurity."  
